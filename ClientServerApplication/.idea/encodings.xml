@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/company/java/levelp/level2/clientserverapplication/MessageContainer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/company/java/levelp/level2/clientserverapplication/client/Client.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/company/java/levelp/level2/clientserverapplication/client/ClientMain.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/company/java/levelp/level2/clientserverapplication/client/ClientReceivingThread.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/company/java/levelp/level2/clientserverapplication/server/Server.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/company/java/levelp/level2/clientserverapplication/server/ServerClientEntity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/company/java/levelp/level2/clientserverapplication/server/ServerMain.java" charset="UTF-8" />
+  </component>
+</project>
